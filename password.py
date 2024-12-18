@@ -7,8 +7,6 @@
 def main():
 
     # Initialize variable
-
-
     # Display welcome message
     print("Welcome!\n")
 
@@ -20,11 +18,8 @@ def main():
  - No empty spaces\n""")
 
     pwLengthValidation = validatePWLength(userPW)
-
     pwEmptySpaceValidation = validateEmptySpaces(userPW)
-
     flag_l = validatePWAlpha(userPW)
-
     flag_n = validatePWNum(userPW)
 
     # Display output
