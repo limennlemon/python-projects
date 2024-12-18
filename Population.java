@@ -1,7 +1,6 @@
 /*
 October 21, 2023
-Melanie Zwack
-CMSC 115, Prof. Rowson, Week 1: Project 3
+CMSC 115, Week 1: Project 3
 Write program that calculates/displays population at the end of each year over 5 years
 (Population change variables: 1 birth every 7 seconds, 1 death every 13 seconds, 1 new immigrant every 45 seconds)
 */
