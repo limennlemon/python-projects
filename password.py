@@ -3,7 +3,6 @@
 # no empty spaces, and at least one alphabetical character and one number.
 # Course: CMIS 102 6988 Introduction to Problem Solving and Algorithm Design
 # Date: July 23, 2023
-# Developer: Melanie Zwack
 
 def main():
 
