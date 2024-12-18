@@ -1,7 +1,6 @@
 /*
 October 20, 2023
-Melanie Zwack
-CMSC 115, Prof. Rowson, Week 1: Project 1
+CMSC 115, Week 1: Project 1
 Write program that displays: Welcome to Java, Welcome to Computer Science, Programming is fun
 */
 
