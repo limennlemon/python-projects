@@ -1,7 +1,6 @@
 # Purpose: Program to compute the cost for house cleaning services using functions
 # Course: CMIS 102 6988 Introduction to Problem Solving and Algorithm Design
 # Date: July 6, 2023
-# Developer: Melanie Zwack
 
 def main():
     
